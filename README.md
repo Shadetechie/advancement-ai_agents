@@ -76,6 +76,6 @@ The agent synthesizes two document sources stored in its knowledge base:
 * `4.3_OF_Agent-Output.png` — Visual summary of the portfolio triage tiers and top 3 strategy briefs.
 
 ### Live Interactive Demo
-* **Try the Agent in Gemini:** [Launch Major Gift Strategist — Built by Ololade Folashade, MBA, MSBA](https://https://share.gemini.google/nuxDLEvEy0y8)  
+* **Try the Agent in Gemini:** [Launch Major Gift Strategist — Built by Ololade Folashade, MBA, MSBA](https://share.gemini.google/nuxDLEvEy0y8)  
   *(Click the link to view the benchmark walkthrough, or select **"Continue this chat"** at the bottom of the page to upload your own prospect profiles and test the agent live.)*
 
