@@ -69,8 +69,9 @@ The agent synthesizes two document sources stored in its knowledge base:
 
 ## Repository Contents
 * `README.md` — Project overview, visual walkthrough, data dictionary, and governance framework.
+* `3_Donor_Profile_Elena_V_Rodriguez.docx` & `3.1_Donor_Profile_David_J_Chen.docx` — Sample synthetic prospect profiles illustrating the raw `.docx` input format.
 * `4_OF_MGS_Cover_Banner.png` — Repository cover graphic.
 * `4.1_OF_Agent-System-Instruction.png` — Visual breakdown of the system prompt and BI workflow.
 * `4.2_OF_Data-Architecture-and-Input.png` — Visual overview of the Case for Support and 20 synthetic donor records.
 * `4.3_OF_Agent-Output.png` — Visual summary of the portfolio triage tiers and top 3 strategy briefs.
-* `Donor_Profile_Elena_V_Rodriguez.docx` & `Donor_Profile_David_J_Chen.docx` — Sample synthetic prospect profiles illustrating the raw `.docx` input format.
+
